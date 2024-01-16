@@ -1,5 +1,7 @@
 # Probability-Statistics-for-Machine-Learning-Data-Science
 
+This course is part of the [Mathematics for Machine Learning and Data Science Specialization](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/) by [DeepLearning.AI](https://www.deeplearning.ai).
+
 After completing this course, learners will be able to:
 - Analytically optimize different types of functions commonly used in machine learning using properties of derivatives and gradients 
 - Approximately optimize different types of functions commonly used in machine learning using first-order (gradient descent) and second-order (Newton’s method) iterative methods
